@@ -36,7 +36,7 @@ Feature: welcome to karate
         * print student.salary
         * print student.firstName
 
-        @wip
+
         Scenario: Spartan Variable
           * def spartan =
           """
